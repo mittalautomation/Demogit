@@ -1,0 +1,7 @@
+12:48:27.151 [main] INFO  Acedemy.HomePage - login url
+12:48:31.981 [main] INFO  Acedemy.ValidatedTitle - Driver is intialize
+12:49:21.054 [main] INFO  Acedemy.ValidatedTitle - Navigate to HomePage
+12:49:23.188 [main] INFO  Acedemy.ValidatedTitle - Successfully Validated Text Message
+13:04:45.043 [main] INFO  Acedemy.ValidateNavigationBar - Navigatation bar is display 
+13:06:10.781 [main] INFO  Acedemy.HomePage - login url
+13:06:15.161 [main] INFO  Acedemy.ValidatedTitle - Driver is intialize

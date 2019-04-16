@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <test name="Test HomePage(failed)">
+    <classes>
+      <class name="Acedemy.HomePage">
+        <methods>
+          <include name="intialize"/>
+          <include name="teatfown"/>
+          <include name="baseclassNavigation"/>
+        </methods>
+      </class> <!-- Acedemy.HomePage -->
+      <class name="Acedemy.ValidatedTitle">
+        <methods>
+          <include name="teatfown"/>
+          <include name="intialize"/>
+        </methods>
+      </class> <!-- Acedemy.ValidatedTitle -->
+      <class name="Acedemy.ValidateNavigationBar">
+        <methods>
+          <include name="teatfown"/>
+          <include name="intialize"/>
+        </methods>
+      </class> <!-- Acedemy.ValidateNavigationBar -->
+    </classes>
+  </test> <!-- Test HomePage(failed) -->
+</suite> <!-- Failed suite [Suite] -->

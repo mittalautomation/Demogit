@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55835" started-at="2018-09-20T12:09:00Z" finished-at="2018-09-20T12:09:56Z">
+    <groups>
+    </groups>
+    <test name="Test Validate Navigation Bar" duration-ms="20397" started-at="2018-09-20T12:09:00Z" finished-at="2018-09-20T12:09:20Z">
+      <class name="Acedemy.ValidateNavigationBar">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:Acedemy.ValidateNavigationBar@7c83dc97]" name="intialize" is-config="true" duration-ms="17698" started-at="2018-09-20T17:39:00Z" finished-at="2018-09-20T17:39:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="validateAppBar()[pri:0, instance:Acedemy.ValidateNavigationBar@7c83dc97]" name="validateAppBar" duration-ms="2250" started-at="2018-09-20T17:39:18Z" finished-at="2018-09-20T17:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppBar -->
+        <test-method status="PASS" signature="teatfown()[pri:0, instance:Acedemy.ValidateNavigationBar@7c83dc97]" name="teatfown" is-config="true" duration-ms="366" started-at="2018-09-20T17:39:20Z" finished-at="2018-09-20T17:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatfown -->
+      </class> <!-- Acedemy.ValidateNavigationBar -->
+    </test> <!-- Test Validate Navigation Bar -->
+    <test name="Test HomePage" duration-ms="21255" started-at="2018-09-20T12:09:21Z" finished-at="2018-09-20T12:09:42Z">
+      <class name="Acedemy.HomePage">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:Acedemy.HomePage@78ffe6dc]" name="intialize" is-config="true" duration-ms="12264" started-at="2018-09-20T17:39:21Z" finished-at="2018-09-20T17:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="baseclassNavigation()[pri:0, instance:Acedemy.HomePage@78ffe6dc]" name="baseclassNavigation" duration-ms="8669" started-at="2018-09-20T17:39:33Z" finished-at="2018-09-20T17:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseclassNavigation -->
+        <test-method status="PASS" signature="teatfown()[pri:0, instance:Acedemy.HomePage@78ffe6dc]" name="teatfown" is-config="true" duration-ms="318" started-at="2018-09-20T17:39:42Z" finished-at="2018-09-20T17:39:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatfown -->
+      </class> <!-- Acedemy.HomePage -->
+    </test> <!-- Test HomePage -->
+    <test name="Test Validate Title" duration-ms="13824" started-at="2018-09-20T12:09:42Z" finished-at="2018-09-20T12:09:56Z">
+      <class name="Acedemy.ValidatedTitle">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:Acedemy.ValidatedTitle@7e9131d5]" name="intialize" is-config="true" duration-ms="11293" started-at="2018-09-20T17:39:42Z" finished-at="2018-09-20T17:39:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="validateAppTitle()[pri:0, instance:Acedemy.ValidatedTitle@7e9131d5]" name="validateAppTitle" duration-ms="2221" started-at="2018-09-20T17:39:53Z" finished-at="2018-09-20T17:39:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppTitle -->
+        <test-method status="PASS" signature="teatfown()[pri:0, instance:Acedemy.ValidatedTitle@7e9131d5]" name="teatfown" is-config="true" duration-ms="304" started-at="2018-09-20T17:39:55Z" finished-at="2018-09-20T17:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatfown -->
+      </class> <!-- Acedemy.ValidatedTitle -->
+    </test> <!-- Test Validate Title -->
+    <test name="Test Apptest page" duration-ms="2" started-at="2018-09-20T12:09:56Z" finished-at="2018-09-20T12:09:56Z">
+    </test> <!-- Test Apptest page -->
+  </suite> <!-- Suite -->
+</testng-results>
