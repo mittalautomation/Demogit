@@ -29,7 +29,7 @@ public class ValidatedTitle extends BaseClass
 	
 
 	@Test
-	
+	// This is for Validate Title
 	public void validateAppTitle() throws IOException, Throwable
 	{
 	LandingPage l=new LandingPage(driver);
