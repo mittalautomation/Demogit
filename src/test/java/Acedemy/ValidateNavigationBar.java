@@ -13,7 +13,7 @@ import PageObject.LandingPage;
 import Recourses.BaseClass;
 
 public class ValidateNavigationBar extends BaseClass
-{
+{ // This is Navaigation validate page
 	private static Logger log =LogManager.getLogger(ValidateNavigationBar.class.getName());
 	@BeforeTest
 	public void intialize() throws IOException, InterruptedException
